@@ -1,3 +1,5 @@
+![](https://cdn.discordapp.com/attachments/939188186217861143/945554390356471838/github2.png)
+
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
 <h3 align="center">A blockchain development learner.</h3>
 

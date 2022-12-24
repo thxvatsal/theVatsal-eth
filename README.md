@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vatsal, a frontend freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Vatsal, a frontend developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on my **web3 skills**  
